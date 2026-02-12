@@ -15,92 +15,92 @@ function App() {
   const[bigData,setbigData]=useState([
     {
       id:1,
-      imgs:"/public/imgs/1.svg",
+      imgs:"/imgs/1.svg",
       title:"HAVIT HV-G92 Gamepad",
       price:120,
       oldprice: 160,
-      star:"/public/imgs/star.svg",
+      star:"/imgs/star.svg",
       have:88,
       aksia:-40,
-      Eyilshes:"/public/imgs/Eyilshes.svg",
-      love:"/public/imgs/love.svg",
+      Eyilshes:"/imgs/Eyilshes.svg",
+      love:"/imgs/love.svg",
       button:'Add To Cart'
     },
         {
       id:1,
-      imgs:"/public/imgs/1.svg",
+      imgs:"/imgs/1.svg",
       title:"HAVIT HV-G92 Gamepad",
       price:120,
       oldprice: 160,
-      star:"/public/imgs/star.svg",
+      star:"/imgs/star.svg",
       have:88,
       aksia:-40,
-      Eyilshes:"/public/imgs/Eyilshes.svg",
-      love:"/public/imgs/love.svg",
+      Eyilshes:"/imgs/Eyilshes.svg",
+      love:"/imgs/love.svg",
       button:'Add To Cart'
     },
      {
       id:1,
-      imgs:"/public/imgs/1.svg",
+      imgs:"/imgs/1.svg",
       title:"HAVIT HV-G92 Gamepad",
       price:120,
       oldprice: 160,
-      star:"/public/imgs/star.svg",
+      star:"/imgs/star.svg",
       have:88,
       aksia:-40,
-      Eyilshes:"/public/imgs/Eyilshes.svg",
-      love:"/public/imgs/love.svg",
+      Eyilshes:"/imgs/Eyilshes.svg",
+      love:"/imgs/love.svg",
       button:'Add To Cart'
     },
      {
       id:1,
-      imgs:"/public/imgs/1.svg",
+      imgs:"/imgs/1.svg",
       title:"HAVIT HV-G92 Gamepad",
       price:120,
       oldprice: 160,
-      star:"/public/imgs/star.svg",
+      star:"/imgs/star.svg",
       have:88,
       aksia:-40,
-      Eyilshes:"/public/imgs/Eyilshes.svg",
-      love:"/public/imgs/love.svg",
+      Eyilshes:"/imgs/Eyilshes.svg",
+      love:"/imgs/love.svg",
       button:'Add To Cart'
     },
   ])
   const[catigore,setcatigore]=useState([
     {
       id:1,
-      imgs:"/public/imgs/fon.svg",
-      imgs1:"/public/imgs/fon1.svg",
+      imgs:"/imgs/fon.svg",
+      imgs1:"/imgs/fon1.svg",
       title:"Phones"
     },
         {
       id:2,
-      imgs:"/public/imgs/fon.svg",
-      imgs1:"/public/imgs/fon1.svg",
+      imgs:"/imgs/fon.svg",
+      imgs1:"/imgs/fon1.svg",
       title:"Phones"
     },
         {
       id:3,
-      imgs:"/public/imgs/fon.svg",
-      imgs1:"/public/imgs/fon1.svg",
+      imgs:"/imgs/fon.svg",
+      imgs1:"/imgs/fon1.svg",
       title:"Phones"
     },
         {
       id:4,
-      imgs:"/public/imgs/fon.svg",
-      imgs1:"/public/imgs/fon1.svg",
+      imgs:"/imgs/fon.svg",
+      imgs1:"/imgs/fon1.svg",
       title:"Phones"
     },
         {
       id:5,
-      imgs:"/public/imgs/fon.svg",
-      imgs1:"/public/imgs/fon1.svg",
+      imgs:"/imgs/fon.svg",
+      imgs1:"/imgs/fon1.svg",
       title:"Phones"
     },
         {
       id:6,
-      imgs:"/public/imgs/fon.svg",
-      imgs1:"/public/imgs/fon1.svg",
+      imgs:"/imgs/fon.svg",
+      imgs1:"/imgs/fon1.svg",
       title:"Phones"
     },
   ])
