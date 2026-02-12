@@ -1,0 +1,101 @@
+.Navbar .container .navbar-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0px;
+       border-bottom: 1.5px solid rgba(0, 0, 0, 0.319);
+  margin-bottom: 20px;
+}
+.Navbar .container .links{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+.Navbar .container .links a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    transition: all .3s ease;
+}
+
+.Navbar .container{
+    position: relative;
+}
+.Navbar .container .links a:hover{
+    color: blue;
+
+}
+.Navbar .container .search_block{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+.Navbar .container .search_block .search{
+    display: flex;
+    align-items: center;
+    background-color: rgba(63, 62, 62, 0.116);
+    padding: 6px 10px;
+    border-radius: 10px;
+}
+.Navbar .container .search_block .search input{
+    border: none;
+    outline: none;
+    background-color: transparent;
+
+}
+
+.Navbar .container .modal-cantact{
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+   
+}
+.Navbar .container .modal-cantact.active{
+    display: flex;
+    position: absolute;
+    
+   
+}
+
+.modal-cantact .modal-flex{
+    display: flex;
+    position: absolute;
+    gap: 10px;
+    top: 70px;
+    right: 20px;justify-content: start;
+    flex-direction: column;
+    align-items: center;
+    background-color: #00000083;
+      padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    width: max-content;
+}
+.modal-cantact .modal-flex p{
+    font-size: 16px;
+    color: white;   
+}
+.modal-cantact .modal-flex .modal-right{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.Error .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.modal-cantact .modal-flex .modal-right {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+ 

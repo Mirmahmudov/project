@@ -1,0 +1,79 @@
+.Footer{
+    background-color: black;
+    padding: 60px 0px 10px 0px;
+    color: #FAFAFA;
+}
+.Footer .container .Footer-block{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 40px 0;
+}
+.Footer .container .Footer-block .flex{
+  width: 220px;
+}
+.Footer .container .Footer-block .flex-bir{
+    width: 200px;
+}
+.Footer .container .Footer-block .flex h1{
+      margin-bottom: 15px;
+
+}
+.Footer .container .Footer-block .flex-bir h1{
+    margin-bottom: 15px;
+    
+}
+.Footer .container .Footer-block .flex h3{
+      margin-bottom: 15px;
+
+    line-height: 20px;
+
+}
+.Footer .container .Footer-block .flex p{
+      margin-bottom: 15px;
+
+        font-size: 18px;
+    line-height: 20px;
+}
+
+.Footer .container .Footer-block .flex-bir p{
+      margin-bottom: 20px;
+
+    font-size: 18px;
+    line-height: 20px;
+}
+.flex-qr .flex-google{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+.flex-qr .flex-google img{
+    width: 100px;
+}
+.flex-qr{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+.flex-iki{
+    width: 230px;
+}
+.flex-iki h1{
+    margin-bottom: 10px;
+}
+.flex-iki p{
+    margin-bottom: 20px;
+}
+.flex-iki-1{
+    display: flex;
+    justify-content: space-between;
+}
+.alldata{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(164, 170, 174);
+    border-top: 2px solid #fafafa24;
+    padding: 15px 0;
+}

@@ -1,0 +1,519 @@
+.Home .container .dsplay-flex .flex {
+    width: 23%;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.Home .container .dsplay-flex .flex .imgs {
+    width: 100%;
+    padding: 50px;
+    background-color: rgba(158, 152, 152, 0.226);
+    margin-bottom: 10px;
+
+}
+
+.Home .container .Home-block {
+    display: flex;
+    padding: 20px 0px;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.Home .container .Home-block .today .today-one {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.Home .container .Home-block {
+    margin-bottom: 20px;
+}
+
+.Home .container .Home-block .block-dsplay {
+    display: flex;
+    gap: 90px;
+}
+
+.Home .container .Home-block .today .today-one p {
+    background-color: red;
+    width: 15px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.Home .container .Home-block .today .today-one h2 {
+    color: red;
+    font-size: 20px;
+}
+
+.Home .container .Home-block .yeard {
+
+    display: flex;
+    align-items: flex-end;
+    gap: 20px;
+}
+
+.Home .container .Home-block h5 {
+    font-size: 25px
+}
+
+.Home .container .Home-block .yeard .days h3 {
+    font-size: 25px;
+}
+
+.Home .container .Home-block .yeard .days {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Home .container .Home-block .yeard .Hours h3 {
+    font-size: 25px;
+}
+
+.Home .container .Home-block .yeard .Hours {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Home .container .Home-block .yeard .Minutes h3 {
+    font-size: 25px;
+}
+
+.Home .container .Home-block .yeard .Minutes {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Home .container .Home-block .yeard .Seconds h3 {
+    font-size: 25px;
+}
+
+.Home .container .Home-block .yeard .Seconds {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Home .container .Home-block .exsport {
+    display: flex;
+    gap: 30px;
+}
+
+.Home .container .Home-block .exsport img {
+    background-color: rgba(219, 218, 218, 0.632);
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+
+.Home .container .button-one .button-1 {
+    background-color: red;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 15px 50px;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+.button-one {
+    margin-top: 50px;
+    display: flex;
+    padding-bottom: 40px;
+    justify-content: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+.Home .container .dsplay-flex .flex h1 {
+    text-align: start;
+    font-size: 20px;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 10px;
+}
+
+.Home .container .dsplay-flex .flex .pricee {
+    display: flex;
+    gap: 20px;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 10px;
+
+}
+
+.Home .container .dsplay-flex .flex .pricee p {
+    font-size: 18px;
+    font-weight: 600;
+    color: red;
+    padding: 0px 10px 0px 0px;
+
+}
+
+.Home .container .dsplay-flex .flex .star-block {
+    display: flex;
+    padding: 0px 10px 0px 10px;
+    align-items: center;
+    gap: 10px;
+}
+
+.Home .container .dsplay-flex .flex .star-block .star-img {
+    display: flex;
+    gap: 4px;
+}
+
+.Home .container .dsplay-flex .flex .star-block h4 {
+    font-size: 17px;
+}
+
+.Home .container .dsplay-flex {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.pazition {
+    position: absolute;
+    top: 10px;
+    border-radius: 10px;
+    left: 10px;
+    background-color: red;
+    padding: 5px 10px;
+
+}
+
+.pazition h2 {
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+
+.pazition-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+
+.pazition-1 img {
+    background-color: white;
+    padding: 10px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.pazition-2 {
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 10px 0px;
+    position: absolute;
+    left: 0px;
+    bottom: 88px;
+    display: none;
+}
+
+.Home .container .dsplay-flex .flex:hover .pazition-2 {
+    display: block;
+}
+
+.Home .container .Categories {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 40px;
+    padding-top: 30px;
+}
+
+.Home .container .Categories .exsport {
+    display: flex;
+    gap: 30px;
+}
+
+.Home .container .Categories .exsport img {
+    background-color: rgba(149, 155, 161, 0.297);
+    padding: 8px;
+    border-radius: 50%;
+}
+
+.Home .container .Categories .today .today-one p {
+    width: 15px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(251, 0, 13);
+}
+
+.Home .container .Categories .today .today-one h2 {
+    color: red;
+    font-size: 16px;
+}
+
+.Home .container .Categories .today .today-one {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.Home .container .dsplay {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-bottom: 60px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.29);
+}
+
+.Home .container .dsplay .flex {
+    width: 180px;
+    border: 2px solid rgba(0, 0, 0, 0.289);
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.Home .container .dsplay .flex .imgs1 {
+    display: none;
+}
+
+.Home .container .dsplay .flex .imgs {
+    display: block;
+}
+
+.Home .container .dsplay .flex:hover {
+    background-color: red;
+    color: white;
+}
+
+.Home .container .dsplay .flex:hover .imgs1 {
+    display: block;
+}
+
+.Home .container .dsplay .flex:hover .imgs {
+    display: none;
+}
+
+.Home .container .dsplay .flex .imgs-block {
+    display: flex;
+    text-align: center;
+    padding: 0px 30px;
+    margin-bottom: 20px;
+
+}
+
+.Home .container .dsplay .flex h1 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.Home .container .Products-one .Categories-two {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 70px;
+    padding-top: 30px;
+}
+
+
+.Home .container .Products-one .Categories-two .today .today-one p {
+    width: 15px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(251, 0, 13);
+}
+
+.Home .container .Products-one .Categories-two .today .today-one h2 {
+    color: red;
+    font-size: 16px;
+}
+
+.Home .container .Products-one .Categories-two .today .today-one {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.Home .container .Products-one .Categories-two button {
+    padding: 12px 50px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Products-dsplay {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* ... */
+.Home .container .Products-dsplay .flex h1 {
+    text-align: start;
+    font-size: 20px;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 10px;
+}
+
+.Home .container .Products-dsplay .flex .pricee {
+    display: flex;
+    gap: 20px;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 10px;
+
+}
+
+.Home .container .Products-dsplay .flex .pricee p {
+    font-size: 18px;
+    font-weight: 600;
+    color: red;
+    padding: 0px 10px 0px 0px;
+
+}
+
+.Home .container .Products-dsplay .flex .star-block {
+    display: flex;
+    padding: 0px 10px 0px 10px;
+    align-items: center;
+    gap: 10px;
+}
+
+.Home .container .Products-dsplay .flex .star-block .star-img {
+    display: flex;
+    gap: 4px;
+}
+
+.Home .container .Products-dsplay .flex .star-block h4 {
+    font-size: 17px;
+}
+
+.Home .container .Products-dsplay {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+.Home .container .Products-dsplay .flex {
+    width: 23%;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+}
+.Home .container .Products-dsplay .flex:hover .pazition-2{
+    display: block;
+}
+
+.Home .container .Products-dsplay .flex .imgs {
+    width: 100%;
+    padding: 50px;
+    background-color: rgba(158, 152, 152, 0.226);
+    margin-bottom: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.arrival .grid-container {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 1fr;  /* chap katta + o'ng 2 ta */
+  grid-template-rows: 288px 260px;       /* 2 qator balandligi bir xil */
+  gap: 20px;
+}
+
+/* Chap katta (2 qator) */
+.item-1 {
+  grid-column: 1 / 2;
+  grid-row: 1 / 3;
+}
+.item-1 img{
+  grid-column: 1 / 2;
+  grid-row: 1 / 3;
+  width: 590px;
+}
+
+.item-2 img {
+  grid-column: 1 / 2;
+  grid-row: 1 / 3;
+  width: 590px;
+  height: 300px;
+}
+.item-3 img {
+  grid-column: 1 / 2;
+  grid-row: 1 / 3;
+  width: 285px;
+  height: 330px;
+
+}
+.item-4 img {
+  grid-column: 1 / 2;
+  grid-row: 1 / 3;
+   width: 285px;
+
+  height: 330px;
+}
+/* O'ng tepada (2 ustun) */
+.item-2 {
+  grid-column: 2 / 4;  /* MANASHU MUHIM: 2/4 bo'lishi shart */
+  grid-row: 1 / 2;
+}
+
+/* O'ng past chap */
+.item-3 {
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+}
+
+/* O'ng past o'ng */
+.item-4 {
+  grid-column: 3 / 4;
+  grid-row: 2 / 3;
+}
+
+.araba .flex img{
+  background-color: black;
+  padding: 10px;
+  border-radius: 50%;
+ 
+ 
+}
+.araba .flex-imgs{
+    background-color: #2f2e3055;
+    padding: 15px 7px;
+    width: 100px;
+    align-items: center;
+    text-align: center;
+     margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+ margin-bottom: 10px;
+}
+.araba{
+      margin-top: 150px;
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 0px;
+}
+
+.block-iki{
+    display: flex;
+}

@@ -1,0 +1,90 @@
+.About .container .about-hero{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+.About .container .about-info{
+  width: 50%;
+}
+.About .container .about-info h1{
+  font-size: 40px;
+  font-weight: bold;
+}
+.About .container  .about-img{
+    width: 600px;
+}
+.About .container .about-info p{
+  margin-top: 20px;
+}
+.About .container{
+    padding: 50px 0px;
+}
+.About .container .home{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.About .container .home a{
+    list-style: none;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.About .container .section-1 .flex{
+  border: 2px solid black;
+ width: 270px;
+ padding:40px 20px;
+ align-items: center;
+ transition: all .3s ease;
+ text-align: center;
+ border-radius: 10px;
+}
+.About .container .section-1 .flex:hover{
+    background-color: red;
+    color: white;
+
+}
+.About .container .section-1 {
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 150px 0px 50px 0px;
+}
+.About .container .section-1 .flex img{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+    background-color: black;
+    padding: 10px;
+    border-radius: 50%;
+}
+.About .container .section-1 .flex h1{
+    margin-bottom: 10px;
+}
+.About .container .section-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 150px;
+    padding: 60px 0px;
+
+
+}
+.About .container .section-2 .flex .icons-dsplay{
+    display: flex;
+    gap: 20px;
+}
+.About .container .section-2 .flex p{
+   margin-bottom: 10px;
+
+}
+.About .container .section-2 .flex h1{
+    margin-bottom: 10px;    
+}
+.About .container .section-2 .flex .erkek{
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.142);
+    padding: 20px 40px 0px 40px;
+}

@@ -1,0 +1,89 @@
+.Login .create1{
+    width: 650px;
+    margin-left: -50px;
+   
+}
+.Login .container .Login-box{
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+.Login .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 50px;
+}
+.Login .container .Login-box input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    outline: none;
+    cursor: pointer;
+
+}
+.Login .container .Login-box .account{
+    padding: 15px;
+    border: none;
+    background-color: #DB4444;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Login .container .Login-box .siginupbutton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    gap: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Login .container .Login-box .loginup{
+    text-align: center;
+    padding: 0px 10px 0px 0px;
+    font-size: 18px;
+}
+.Login .container .Login-box .loginup span{
+    cursor: pointer;
+    color: #000;
+    font-size: 20px;
+    font-weight: 900;
+    padding-left: 10px;
+
+}
+
+
+
+
+.Login .container .Login-box  .login-in-block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Login .container .Login-box  .login-in-block .account{
+    width: 150px;
+}
+.Login .container .Login-box  .login-in-block p{
+    color: #000;
+    font-size: 16px;
+    cursor: pointer;
+    color: red;
+}   
+
+.Navbar .container .insan{
+cursor: pointer;
+}
+.Navbar .container .insan:hover{
+cursor: pointer;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+border-radius: 50%;
+}
