@@ -53,8 +53,8 @@ function Home({ bigData,catigore }) {
           </div>
          </div>
           <div className="exsport">
-            <img className='left' src="/public/imgs/left.svg" alt="" />
-            <img className='right' src="/public/imgs/right.svg" alt="" />
+            <img className='left' src="/imgs/left.svg" alt="" />
+            <img className='right' src="/imgs/right.svg" alt="" />
           </div>
         </div>
         <div className="dsplay-flex">
@@ -106,8 +106,8 @@ function Home({ bigData,catigore }) {
             <h1>Browse By Category</h1>
           </div>
           <div className="exsport">
-            <img className='left' src="/public/imgs/left.svg" alt="" />
-            <img className='right' src="/public/imgs/right.svg" alt="" />
+            <img className='left' src="/imgs/left.svg" alt="" />
+            <img className='right' src="/imgs/right.svg" alt="" />
           </div>
           
       </div>
@@ -174,37 +174,37 @@ function Home({ bigData,catigore }) {
           <div className="arrival">
        <div className="grid-container">
         <div className="grid-item item-1">
-         <img src="/public/imgs/12.svg" alt="" />
+         <img src="/imgs/12.svg" alt="" />
         </div>
         <div className="grid-item item-2">
-         <img src="/public/imgs/111.svg" alt="" />
+         <img src="/imgs/111.svg" alt="" />
         </div>
         <div className="grid-item item-3">
-         <img src="/public/imgs/2.svg" alt="" />
+         <img src="/imgs/2.svg" alt="" />
         </div>
         <div className="grid-item item-4">
-         <img src="/public/imgs/3.svg" alt="" />
+         <img src="/imgs/3.svg" alt="" />
         </div>
        </div>
           </div>
           <div className="araba">
             <div className="flex">
               <div className="flex-imgs">
-                <img src="/public/imgs/araba.svg" alt="" />
+                <img src="/imgs/araba.svg" alt="" />
               </div>
               <h2>FREE AND FAST DELIVERY</h2>
               <p>Free delivery for all orders over $140</p>
             </div>
                           <div className="flex">
              <div className="flex-imgs">
-               <img src="/public/imgs/kilalchin.svg" alt="" />
+               <img src="/imgs/kilalchin.svg" alt="" />
              </div>
               <h2>FREE AND FAST DELIVERY</h2>
               <p>Free delivery for all orders over $140</p>
             </div>
              <div className="flex">
              <div className="flex-imgs">
-               <img src="/public/imgs/makul.svg" alt="" />
+               <img src="/imgs/makul.svg" alt="" />
              </div>
               <h2>FREE AND FAST DELIVERY</h2>
               <p>Free delivery for all orders over $140</p>
